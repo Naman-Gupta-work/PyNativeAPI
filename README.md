@@ -27,7 +27,7 @@ Navigate to the project directory in your terminal and run:
 
 ```bash
 python assignment.py
-
+```
 ### Sample Response
 A successful request returns JSON like this:
 
